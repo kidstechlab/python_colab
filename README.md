@@ -14,7 +14,7 @@ Press Shift + Enter or click the "Play" button on the left side of the cell to e
 The output will appear directly below the code cell.
 
 ## Lessons
-01 - Getting Started with Python with Colab  
+01 - Getting Started with Python with Colab : [01_Introduction_to_Python_and_Google_Colab.ipynb](https://github.com/kidstechlab/python_colab/blob/main/01_Introduction_to_Python_and_Google_Colab.ipynb)  
 02 - Python Structures & Libraries  
 03 - Introduction to AI & Machine Learning Concepts  
 04 - Building an AI Application  
