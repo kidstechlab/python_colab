@@ -2,9 +2,6 @@
 ### Accessing Google Colab:
 Open your web browser and navigate to Google Colab.
 If prompted, sign in with your Google account.
-### Creating a New Notebook:
-Click on "File" in the top-left corner.
-Select "New Notebook".
 ### Understanding the Interface:
 Code Cells: Areas where you write and execute Python code.
 Text Cells: Sections for adding text, explanations, or instructions.
@@ -12,6 +9,8 @@ Text Cells: Sections for adding text, explanations, or instructions.
 Click inside a code cell to select it.
 Press Shift + Enter or click the "Play" button on the left side of the cell to execute the code.
 The output will appear directly below the code cell.
+### Opening Notebook:
+Click on the lesson link below and then click on "Open In Colab" button.
 
 ## Lessons
 01 - Getting Started with Python with Colab : [01_Introduction_to_Python_and_Google_Colab.ipynb](https://github.com/kidstechlab/python_colab/blob/main/01_Introduction_to_Python_and_Google_Colab.ipynb)  
