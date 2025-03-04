@@ -10,7 +10,7 @@ Click inside a code cell to select it.
 Press Shift + Enter or click the "Play" button on the left side of the cell to execute the code.
 The output will appear directly below the code cell.
 ### Opening Notebook:
-Click on the lesson link below and then click on "Open In Colab" button.
+Click on the lesson link below and then click on "Open In Colab" button.  
 ![Open In Colab](https://github.com/kidstechlab/python_colab/blob/main/Open%20in%20Colab.png)
 
 ## Lessons
