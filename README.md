@@ -11,6 +11,7 @@ Press Shift + Enter or click the "Play" button on the left side of the cell to e
 The output will appear directly below the code cell.
 ### Opening Notebook:
 Click on the lesson link below and then click on "Open In Colab" button.
+![Open In Colab](https://github.com/kidstechlab/python_colab/blob/main/Open%20in%20Colab.png)
 
 ## Lessons
 01 - Getting Started with Python with Colab : [01_Introduction_to_Python_and_Google_Colab.ipynb](https://github.com/kidstechlab/python_colab/blob/main/01_Introduction_to_Python_and_Google_Colab.ipynb)  
