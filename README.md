@@ -14,9 +14,17 @@ Click on the lesson link below and then click on "Open In Colab" button.
 ![Open In Colab](https://github.com/kidstechlab/python_colab/blob/main/Open%20in%20Colab.png)
 
 ## Lessons
-01 - Getting Started with Python with Colab : [01_Introduction_to_Python_and_Google_Colab.ipynb](https://github.com/kidstechlab/python_colab/blob/main/01_Introduction_to_Python_and_Google_Colab.ipynb)  
+01 - Getting Started with Python with Colab :  
+Link: [01_Introduction_to_Python_and_Google_Colab.ipynb](https://github.com/kidstechlab/python_colab/blob/main/01_Introduction_to_Python_and_Google_Colab.ipynb)  
+
 02 - Python Structures & Libraries  
+Coming Soon  
+
 03 - Introduction to AI & Machine Learning Concepts  
+Coming Soon  
+
 04 - Building an AI Application  
+Coming Soon  
+
 
 
