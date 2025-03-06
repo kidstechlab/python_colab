@@ -16,6 +16,7 @@ Click on the lesson link below and then click on "Open In Colab" button.
 ## Lessons
 01 - Getting Started with Python with Colab :  
 Link: [01_Introduction_to_Python_and_Google_Colab.ipynb](https://github.com/kidstechlab/python_colab/blob/main/01_Introduction_to_Python_and_Google_Colab.ipynb)  
+Video: [Instructions](https://youtu.be/NlNOwy3Fc9c)  
 
 02 - Python Structures & Libraries  
 Coming Soon  
