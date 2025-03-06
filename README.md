@@ -7,7 +7,7 @@ Code Cells: Areas where you write and execute Python code.
 Text Cells: Sections for adding text, explanations, or instructions.
 ### Running Code Cells:
 Click inside a code cell to select it.
-Press Shift + Enter or click the "Play" button on the left side of the cell to execute the code.
+Press **Shift + Enter** or click the **"Play"** button on the left side of the cell to execute the code.
 The output will appear directly below the code cell.
 ### Opening Notebook:
 Click on the lesson link below and then click on "Open In Colab" button.  
