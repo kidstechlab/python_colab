@@ -19,7 +19,8 @@ Link: [01_Introduction_to_Python_and_Google_Colab.ipynb](https://github.com/kids
 Video: [Instructions](https://youtu.be/NlNOwy3Fc9c)  
 
 02 - Python Structures & Libraries  
-Coming Soon  
+Link: [02_Python_Structures_Loops_and_Functions.ipynb](https://github.com/kidstechlab/python_colab/blob/main/02_Python_Structures_Loops_and_Functions.ipynb)
+Video: [Instructions](https://youtu.be/40qaTPPeUGc) 
 
 03 - Introduction to AI & Machine Learning Concepts  
 Coming Soon  
