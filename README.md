@@ -26,7 +26,7 @@ Video: [Instructions](https://youtu.be/40qaTPPeUGc)
 Link: [03_Intro_to_AI.ipynb](https://github.com/kidstechlab/python_colab/blob/main/03_Intro_to_AI.ipynb)  
 
 04 - Building an AI Application  
-Coming Soon  
+Link: [04_AI_Web_App.ipynb](https://github.com/kidstechlab/python_colab/blob/main/04_AI_Web_App.ipynb)
 
 
 
